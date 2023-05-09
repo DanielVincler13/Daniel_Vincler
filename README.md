@@ -15,6 +15,7 @@
  <br>
  
  
-  ![Snake animation](https://github.com/DanielVincler13/Daniel_Vincler/main/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DanielVincler13/DanielVincler13/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+  
